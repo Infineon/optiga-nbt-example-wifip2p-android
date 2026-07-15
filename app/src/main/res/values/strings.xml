@@ -1,0 +1,38 @@
+<!-- SPDX-FileCopyrightText: Copyright (c) 2024-2025 Infineon Technologies AG -->
+<!-- SPDX-License-Identifier: MIT -->
+
+<resources>
+
+    <string name="splashscreen_contentdescription">Infineon example app</string>
+
+    <!--NBT Personalization -->
+    <!-- Titles -->
+    <string name="app_title">NBT WIFI Direct</string>
+    <string name="app_label">NBT WIFI</string>
+    <string name="app_subtitle">OPTIGA&#8482;\u00A0Authenticate\u00A0NBT</string>
+    <!-- Notifications -->
+    <!-- App specific strings -->
+    <string name="string_usecase">Available interactions are listed below:</string>
+
+    <string name="string_wifi_connection">WIFI Direct with Raspberry Pi</string>
+    <string name="string_wifi_direct_establishment">Establishing connection to the WIFI Direct partner…</string>
+
+    <string name="string_wifi_tap">Please tap your mobile phone to the OPTIGA&#8482;\u00A0Authenticate\u00A0NBT to read the WIFI Direct configuration from its NDEF message…\n</string>
+    <string name="string_wifi_success">Successfully connected to the WIFI Direct network.</string>
+    <string name="string_wifi_failure">Error establishing the WIFI Direct network connection.</string>
+    <string name="string_wifi_res_success">Text successfully transferred.</string>
+    <string name="string_wifi_res_failure">An unknown issue occurred.</string>
+
+    <string name="string_no_error">No error message available…\n</string>
+    <string name="string_error">An error occurred, please retry!</string>
+    <string name="string_unknown_tag">Unknown tag type!</string>
+
+    <string name="scan_info">Please make sure to give the app essential location permissions</string>
+    <string name="phone_desc">Phone icon</string>
+    <string name="tag_desc">Tag icon</string>
+    <string name="state_desc">Stage icon</string>
+    <string name="button_desc">Button for use case</string>
+    <string name="return_desc">Return button</string>
+    <string name="write_desc">Writing to tag icon</string>
+
+</resources>
