@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: Copyright (c) 2024-2025 Infineon Technologies AG
+// SPDX-FileCopyrightText: Copyright (c) 2024-2026 Infineon Technologies AG
 // SPDX-License-Identifier: MIT
 
 package com.infineon.css.nbt_wifi_p2p.utils.commands;
@@ -51,4 +51,3 @@ public class WriteNdef implements ICommandFlow {
         ndef_message = ndefMessage;
     }
 }
-

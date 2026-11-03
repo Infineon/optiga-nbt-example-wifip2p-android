@@ -10,8 +10,8 @@ android {
         applicationId "com.infineon.css.nbt_wifi_p2p"
         minSdk 30
         targetSdk 37
-        versionCode 100000
-        versionName "1.0.0"
+        versionCode 20261103
+        versionName "1.0.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
